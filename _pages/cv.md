@@ -1,3 +1,5 @@
+@skip
+
 ---
 layout: cv
 permalink: /cv/
