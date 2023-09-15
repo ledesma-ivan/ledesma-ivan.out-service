@@ -1,13 +1,12 @@
 ---
 layout: page
-title: submenus
+title: Recommendations
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
+    - title: Books
       permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Courses
+      permalink: /publications/
 ---
