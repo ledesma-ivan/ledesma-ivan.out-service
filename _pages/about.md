@@ -1,5 +1,4 @@
-@skip
-
+---
 layout: about
 title: About
 permalink: /
