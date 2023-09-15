@@ -1,3 +1,5 @@
+@skip
+
 ---
 layout: page
 permalink: /publications/
