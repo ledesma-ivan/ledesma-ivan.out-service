@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affsiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: ML engineer and data scientist interested in MLOps
 
 profile:
   align: right
