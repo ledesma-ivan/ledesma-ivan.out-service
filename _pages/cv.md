@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: Ivan Ledesma Resume.pdf
+permalink: /assets/pdf/Ivan Ledesma Resume.pdf
 title: Resume
 nav: true
 nav_order: 5
