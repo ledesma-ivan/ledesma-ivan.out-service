@@ -6,6 +6,7 @@ img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
+redirect: https://github.com/ledesma-ivan/machine-learning-anyone-ai/tree/main/Sprint_6
 ---
 
 Every project has a beautiful feature showcase page.

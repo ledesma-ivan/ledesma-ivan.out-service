@@ -5,6 +5,7 @@ description: A credit risk analysis project that utilizes machine learning techn
 img: assets/img/1.jpg
 importance: 3
 category: fun
+redirect: https://github.com/ledesma-ivan/machine-learning-anyone-ai/tree/main/Sprint_3
 ---
 
 Every project has a beautiful feature showcase page.

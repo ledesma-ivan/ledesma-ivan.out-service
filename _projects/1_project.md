@@ -6,6 +6,7 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
+redirect: https://github.com/ledesma-ivan/machine-learning-anyone-ai/tree/main/Final_project
 ---
 
 Every project has a beautiful feature showcase page.

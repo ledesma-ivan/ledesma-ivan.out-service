@@ -5,6 +5,7 @@ description: A project that uses machine learning techniques for predicting NBA 
 img:
 importance: 4
 category: fun
+redirect: https://github.com/ledesma-ivan/machine-learning-anyone-ai/tree/main/Sprint_2
 ---
 
 Every project has a beautiful feature showcase page.

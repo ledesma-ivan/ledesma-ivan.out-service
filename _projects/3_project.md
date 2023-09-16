@@ -6,6 +6,7 @@ img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
+redirect: https://github.com/ledesma-ivan/machine-learning-anyone-ai/tree/main/Sprint_5
 ---
 
 Every project has a beautiful feature showcase page.

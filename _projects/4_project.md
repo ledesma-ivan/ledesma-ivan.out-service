@@ -5,6 +5,7 @@ description: It consists of an image classifier with resnet 50 and deployed in f
 img:
 importance: 3
 category: fun
+redirect: https://github.com/ledesma-ivan/machine-learning-anyone-ai/tree/main/Sprint_4
 ---
 
 Every project has a beautiful feature showcase page.
