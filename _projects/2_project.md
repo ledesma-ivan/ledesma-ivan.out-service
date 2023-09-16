@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Sentiment Analysis on Movies Reviews
+description: Sentiment analysis in movie reviews is a technique that evaluates and classifies the opinions and emotions expressed by users in their movie reviews.
 img: assets/img/3.jpg
 importance: 2
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Flask ML API
+description: It consists of an image classifier with resnet 50 and deployed in flask
 img:
 importance: 3
 category: fun

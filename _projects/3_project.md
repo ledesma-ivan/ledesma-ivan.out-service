@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Vehicle classification from images
+description: The project consisted of predicting the make and model of vehicles from e-commerce images, achieving an accuracy of 82% by training a convolutional neural network on a data set of 196 classes and deploying it on AWS using Docker to offer an API-based web service
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
