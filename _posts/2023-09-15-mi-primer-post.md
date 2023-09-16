@@ -8,6 +8,6 @@ categories: []
 giscus_comments: false
 related_posts: true
 ---
-Hola, este es la primera publicación de mi blog, si es que se podría considerar blog, seguramente vaya subiendo pensamientos, recomendaciones de libros, cursos o tambien explicación de temas de forma mas concisa, veremos que nos depara el futuro.
+Hola, este es la primera publicación de mi blog, si es que se podría considerar blog, seguramente vaya subiendo pensamientos, recomendaciones de libros, cursos o también explicación de temas de forma más concisa, veremos que nos depara el futuro.
 
 Saludos, querido lector.
