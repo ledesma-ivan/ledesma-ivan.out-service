@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flask ML API
+title:  Flask ML API
 description: It consists of an image classifier with resnet 50 and deployed in flask
 img:
 importance: 3

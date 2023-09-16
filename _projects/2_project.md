@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sentiment Analysis on Movies Reviews
+title:  Sentiment Analysis on Movies Reviews
 description: Sentiment analysis in movie reviews is a technique that evaluates and classifies the opinions and emotions expressed by users in their movie reviews.
 img: assets/img/3.jpg
 importance: 2

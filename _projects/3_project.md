@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vehicle classification from images
+title:  Vehicle classification from images
 description: The project consisted of predicting the make and model of vehicles from e-commerce images, achieving an accuracy of 82% by training a convolutional neural network on a data set of 196 classes and deploying it on AWS using Docker to offer an API-based web service
 img: assets/img/7.jpg
 redirect: https://unsplash.com

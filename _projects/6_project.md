@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NBA Salary Predictions
+title:  NBA Salary Predictions
 description: A project that uses machine learning techniques for predicting NBA All-Star players. Includes data preprocessing, feature engineering, and supervised machine learning models for accurate prediction of NBA All-Star players.
 img:
 importance: 4
