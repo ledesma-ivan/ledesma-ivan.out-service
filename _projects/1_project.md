@@ -2,7 +2,7 @@
 layout: page
 title:  Automated product categorization for e-commerce
 description: Creating tags and categories for e-commerce products using natural language processing improves product categorization, enhances user experience, and boosts conversion rates.
-img: assets/img/12.jpg
+img:
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning

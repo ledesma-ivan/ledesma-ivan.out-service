@@ -2,7 +2,7 @@
 layout: page
 title:  Flask ML API
 description: It consists of an image classifier with resnet 50 and deployed in flask
-img: assets/img/13.jpg
+img: 
 importance: 3
 category: fun
 redirect: https://github.com/ledesma-ivan/machine-learning-anyone-ai/tree/main/Sprint_4
