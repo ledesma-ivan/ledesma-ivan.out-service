@@ -4,7 +4,7 @@ permalink: /test/
 title: Test
 header: test
 description: Pequeñas recomendaciones del test
-nav: true
+nav: false
 nav_order: 2
 ---
 <ul>
