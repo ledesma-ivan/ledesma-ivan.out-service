@@ -6,5 +6,5 @@ nav_order: 2
 dropdown: true
 children: 
     - title: Test
-      permalink: /Test/
+      permalink: /test/
 ---
