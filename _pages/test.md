@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /Books/
-title: Books
+permalink: /test/
+title: test
 header: test
 nav: false
-nav_order: 4
+nav_order: 2
 ---
 <br>
 <h2>Hola</h2>
