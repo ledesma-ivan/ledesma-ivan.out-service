@@ -7,6 +7,4 @@ dropdown: true
 children: 
     - title: Books
       permalink: /publications/
-    - title: Courses
-      permalink: /publications/
 ---
