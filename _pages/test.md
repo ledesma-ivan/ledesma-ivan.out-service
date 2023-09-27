@@ -3,7 +3,7 @@ layout: page
 permalink: /test/
 title: test
 header: test
-nav: false
+nav: true
 nav_order: 2
 ---
 <br>
