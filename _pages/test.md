@@ -5,7 +5,7 @@ title: Test
 header: test
 description: Pequeñas recomendaciones del test
 nav: false
-nav_order: 2
+nav_order:
 ---
 <ul>
   <li class="inline-block px-3">
