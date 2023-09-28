@@ -29,7 +29,7 @@ nav_order:
             <p>Esto es un excelente ejemplo de la categoría "test".</p>
         </div>
     </div>
-    <img src="https://www.pbs.org/wnet/nature/files/2014/10/Monkey-Main-1280x600.jpg" alt="Imagen del libro" class="book-image">
+    <img src="https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQkrjYxSfSHeCEA7hkPy8e2JphDsfFHZVKqx-3t37E4XKr-AT7DML8IwtwY0TnZsUcQ" alt="Imagen del libro" class="book-image">
     <h2 id="test" class="text-2xl font-bold mb-4 text-black dark:text-white scroll-margin-top">test</h2>
 </div>
 
