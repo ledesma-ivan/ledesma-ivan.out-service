@@ -37,3 +37,6 @@ ul.list-inline li a {
   color: #444;
 }
 </style>
+
+<div class="flex flex-wrap">
+							<h2 id="visualizacion-de-datos" class="text-2xl font-bold mb-4  text-black dark:text-white [scroll-margin-top:60px]">test</h2>
