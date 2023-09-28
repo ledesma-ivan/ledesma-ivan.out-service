@@ -41,3 +41,6 @@ h2 {
     height: 200px;
   }
 
+  .rating input {
+    display: none;
+  }

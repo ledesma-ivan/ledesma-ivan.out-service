@@ -20,17 +20,15 @@ nav_order:
     <div class="card">
   <img src="https://www.pbs.org/wnet/nature/files/2014/10/Monkey-Main-1280x600.jpg" alt="Imagen del libro">
 <div class="card-body">
+      <div class="rating">
+      <input type="radio" name="rating" value="2" id="2-stars" checked disabled>
+      <label for="2-stars">★★</label>
+    </div>
     <h3>test</h3>
     <p>Autor test</p>
     <p>Descripción test</p>
        <h4>Reseña</h4>
-    <p>Este libro es un excelente ejemplo de la categoría "test". La historia es emocionante y cautivadora, y los personajes son bien desarrollados. El autor hace un excelente trabajo de crear un mundo convincente y de sumergir al lector en la historia.</p>
-
-    <h4>Calificación</h4>
-    <div class="rating">
-      <input type="radio" name="rating" value="2" id="2-stars" checked disabled>
-      <label for="2-stars">★★</label>
-    </div>
+    <p>Esto es un excelente ejemplo de la categoría "test".</p>
 </div>
   </div>
 
