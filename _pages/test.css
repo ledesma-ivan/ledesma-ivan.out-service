@@ -27,8 +27,17 @@ h2 {
     margin-top: 60px;
 }
 
-.rating input:checked {
+.rating input {
     background-color: yellow;
     width: 100%;
+    cursor: not-allowed;
   }
   
+  .card img {
+    float: right;
+  }
+
+  .card img {
+    height: 200px;
+  }
+
