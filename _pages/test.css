@@ -26,3 +26,9 @@ h2 {
 .scroll-margin-top {
     margin-top: 60px;
 }
+
+.rating input:checked {
+    background-color: yellow;
+    width: 100%;
+  }
+  
