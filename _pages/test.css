@@ -45,7 +45,7 @@ h2 {
 .rating input[type="radio"] {
     display: none;
 }
-.card img  {
+.book-image  {
     width: 200px; 
     height: auto; 
     float: left; 
