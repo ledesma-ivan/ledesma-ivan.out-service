@@ -16,21 +16,21 @@ nav_order:
 
 
 <div class="flex flex-wrap">
+    <h2 id="test" class="text-2xl font-bold mb-4  text-black dark:text-white [scroll-margin-top:60px]">test</h2>
     <div class="card">
-        <div class="card-body">
-            <div class="rating">
-                <input type="radio" name="rating" value="2" id="2-stars" checked disabled>
-                <label for="2-stars">★★</label>
-            </div>
-            <h3>test</h3>
-            <p>Autor test</p>
-            <p>Descripción test</p>
-            <h4>Reseña</h4>
-            <p>Esto es un excelente ejemplo de la categoría "test".</p>
-        </div>
+  <img src="https://www.pbs.org/wnet/nature/files/2014/10/Monkey-Main-1280x600.jpg" alt="Imagen del libro">
+<div class="card-body">
+      <div class="rating">
+      <input type="radio" name="rating" value="2" id="2-stars" checked disabled>
+      <label for="2-stars">★★</label>
     </div>
-    <img src="https://t0.gstatic.com/licensed-image?q=ANd9GcQkrjYxSfSHeCEA7hkPy8e2JphDsfFHZVKqx-3t37E4XKr-AT7DML8IwtwY0TnZsUcQ" alt="Imagen del libro" class="book-image float-left mr-20">
-    <h2 class="text-center font-size-36px font-weight-bold text-transform-uppercase">TEST</h2>
+    <h3>test</h3>
+    <p>Autor test</p>
+    <p>Descripción test</p>
+       <h4>Reseña</h4>
+    <p>Esto es un excelente ejemplo de la categoría "test".</p>
+</div>
+  </div>
 </div>
 
   <div class="flex flex-wrap">
