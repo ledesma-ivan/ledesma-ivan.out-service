@@ -46,13 +46,12 @@ h2 {
     display: none;
 }
 .book-image {
-    width: 100px;
-    height: 50px;
     float: left;
+    width: 50px;
+    height: 50px;
     margin-right: 20px;
   }
-
-
-.card-body {
-    margin-left: 120px; 
-}
+  
+  .card-body {
+    margin-left: 0px;
+  }
