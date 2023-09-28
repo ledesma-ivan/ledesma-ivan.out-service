@@ -45,12 +45,12 @@ h2 {
 .rating input[type="radio"] {
     display: none;
 }
-.book-image  {
-    width: 200px; 
-    height: auto; 
-    float: left; 
-    margin-right: 20px; 
-}
+.book-image {
+    width: 200px;
+    height: 50px;
+    float: left;
+    margin-right: 20px;
+  }
 
 
 .card-body {

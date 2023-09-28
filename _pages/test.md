@@ -29,10 +29,9 @@ nav_order:
             <p>Esto es un excelente ejemplo de la categoría "test".</p>
         </div>
     </div>
-    <img src="https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQkrjYxSfSHeCEA7hkPy8e2JphDsfFHZVKqx-3t37E4XKr-AT7DML8IwtwY0TnZsUcQ" alt="Imagen del libro" class="book-image">
-    <h2 id="test" class="text-2xl font-bold mb-4 text-black dark:text-white scroll-margin-top">test</h2>
+    <img src="https://t0.gstatic.com/licensed-image?q=ANd9GcQkrjYxSfSHeCEA7hkPy8e2JphDsfFHZVKqx-3t37E4XKr-AT7DML8IwtwY0TnZsUcQ" alt="Imagen del libro" class="book-image float-left mr-20">
+    <h2 class="text-center font-size-36px font-weight-bold text-transform-uppercase">TEST</h2>
 </div>
-
 
   <div class="flex flex-wrap">
     <h2 id="no-test" class="text-2xl font-bold mb-4  text-black dark:text-white [scroll-margin-top:60px]">No test</h2>
