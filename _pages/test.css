@@ -37,11 +37,12 @@ h2 {
     cursor: not-allowed;
   }
 
-
   .card img {
     float: right;
-  }
-
-  .card img {
+    width: 200px;
     height: 200px;
+  }
+  
+  .card-body {
+    margin-left: 200px;
   }
