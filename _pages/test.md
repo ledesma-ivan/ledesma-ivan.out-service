@@ -31,6 +31,7 @@ nav_order:
     <p>Esto es un excelente ejemplo de la categoría "test".</p>
 </div>
   </div>
+</div>
 
   <div class="flex flex-wrap">
     <h2 id="no-test" class="text-2xl font-bold mb-4  text-black dark:text-white [scroll-margin-top:60px]">No test</h2>

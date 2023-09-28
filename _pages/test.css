@@ -27,20 +27,21 @@ h2 {
     margin-top: 60px;
 }
 
-.rating input {
+.rating input[type="radio"] {
+    display: none;
+  }
+  
+  .rating input {
     background-color: yellow;
     width: 100%;
     cursor: not-allowed;
   }
-  
+
+
   .card img {
     float: right;
   }
 
   .card img {
     height: 200px;
-  }
-
-  .rating input {
-    display: none;
   }
