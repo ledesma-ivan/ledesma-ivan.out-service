@@ -23,26 +23,31 @@ h2 {
 .dark .text-white {
     color: white;
 }
+
 .scroll-margin-top {
     margin-top: 60px;
 }
 
 .rating input[type="radio"] {
     display: none;
-  }
-  
-  .rating input {
+}
+
+.rating input[type="radio"][disabled] + label {
+    color: yellow;
+}
+
+.rating input {
     background-color: yellow;
     width: 100%;
     cursor: not-allowed;
-  }
+}
 
-  .card img {
+.card img {
     float: right;
     width: 200px;
-    height: 200px;
-  }
-  
-  .card-body {
-    margin-left: 200px;
-  }
+    height: auto;
+}
+
+.card-body {
+    margin-left: 220px; 
+}
