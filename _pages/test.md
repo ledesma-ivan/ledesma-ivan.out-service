@@ -18,7 +18,7 @@ nav_order:
 <div class="flex flex-wrap">
     <h2 id="test" class="text-2xl font-bold mb-4  text-black dark:text-white [scroll-margin-top:60px]">test</h2>
     <div class="card">
-  <img src="https://www.pbs.org/wnet/nature/files/2014/10/Monkey-Main-1280x600.jpg" alt="Imagen del libro">
+  <img src="https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQkrjYxSfSHeCEA7hkPy8e2JphDsfFHZVKqx-3t37E4XKr-AT7DML8IwtwY0TnZsUcQ" alt="Imagen del libro">
 <div class="card-body">
       <div class="rating">
       <input type="radio" name="rating" value="2" id="2-stars" checked disabled>
