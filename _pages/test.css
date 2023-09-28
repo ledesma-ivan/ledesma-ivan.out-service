@@ -45,11 +45,13 @@ h2 {
 .rating input[type="radio"] {
     display: none;
 }
-.card img {
-    float: right;
-    width: 200px;
-    height: auto;
+.card img  {
+    width: 200px; 
+    height: auto; 
+    float: left; 
+    margin-right: 20px; 
 }
+
 
 .card-body {
     margin-left: 220px; 
