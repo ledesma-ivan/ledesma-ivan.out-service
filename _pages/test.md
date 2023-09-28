@@ -7,13 +7,33 @@ description: Pequeñas recomendaciones del test
 nav: false
 nav_order:
 ---
-<ul>
-  <li class="inline-block px-3">
-    <a href="working.org">Wow</a>
-  </li>
-  <li class="inline-block px-3">
-    <a href="youtube.com">Prueba</a>
-  </li>
+
+<ul class="list-inline">
+  <li class="list-inline-item"><a href="/test/recomendaciones/test">test</a></li>
+  <li class="list-inline-item"><a href="/test/recomendaciones/no-test">No test</a></li>
+  <li class="list-inline-item"><a href="/test/recomendaciones/test">test</a></li>
 </ul>
 
 <h2>Hola</h2>
+
+<style>
+ul.list-inline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul.list-inline li {
+  padding: 10px;
+  background-color: #eee;
+  border-radius: 5px;
+}
+
+ul.list-inline li a {
+  text-decoration: none;
+  color: #444;
+}
+</style>
