@@ -37,7 +37,9 @@
   
   .card-body {
     display: flex;
+    justify-content: start;
     align-items: center;
+    margin-bottom: 20px;
   }
   
   .estrella-amarilla {
