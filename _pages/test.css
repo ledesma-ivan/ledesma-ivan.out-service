@@ -30,13 +30,14 @@
   }
   
   .book-image {
-    float: left;
-    width: 50px; /* Ajusta el ancho de la imagen al mismo tamaño que el texto */
-    height: auto; /* Autoajusta la altura proporcionalmente */
+    width: 100px;
+    height: auto;
+    display: flex;
   }
   
   .card-body {
-    margin-left: 0px;
+    display: flex;
+    justify-content: center;
   }
   
   .estrella-amarilla {
