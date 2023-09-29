@@ -38,6 +38,6 @@ h2 {
   .card-body {
     margin-left: 0px;
   }
-  span.estrella-amarilla {
+  span.estrella-amarilla:hover {
     color: yellow;
   }
