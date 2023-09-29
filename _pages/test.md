@@ -21,8 +21,7 @@ nav_order:
   <img src="https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQkrjYxSfSHeCEA7hkPy8e2JphDsfFHZVKqx-3t37E4XKr-AT7DML8IwtwY0TnZsUcQ" alt="Imagen del libro">
 <div class="card-body">
       <div class="rating">
-      <input type="radio" name="rating" value="2" id="2-stars" checked disabled>
-      <label for="2-stars">★★</label>
+      <p class="calificacion">Calificación: <span class="estrella-amarilla">&#9733;&#9733;</span></p>
     </div>
     <h3>test</h3>
     <p>Autor test</p>

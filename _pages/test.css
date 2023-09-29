@@ -28,23 +28,6 @@ h2 {
     margin-top: 60px;
 }
 
-.rating input[type="radio"] {
-    display: none;
-}
-
-.rating input[type="radio"][disabled] + label {
-    color: yellow;
-}
-
-.rating input {
-    background-color: yellow;
-    width: 100%;
-    cursor: not-allowed;
-}
-
-.rating input[type="radio"] {
-    display: none;
-}
 .book-image {
     float: left;
     width: 50px;
@@ -54,4 +37,8 @@ h2 {
   
   .card-body {
     margin-left: 0px;
+  }
+  span.estrella-amarilla {
+    color: orange;
+    font-size: 20px;
   }
