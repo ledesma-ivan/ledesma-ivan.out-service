@@ -23,9 +23,7 @@ nav_order:
         <img src="https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQkrjYxSfSHeCEA7hkPy8e2JphDsfFHZVKqx-3t37E4XKr-AT7DML8IwtwY0TnZsUcQ" alt="Imagen del libro" class="book-image image-left">
         <div class="text">
           <div class="rating">
-            <p class="estrella-amarilla">
-              <span>&#9733;&#9733;</span>
-            </p>
+            <span class="estrella-amarilla">&#9733;&#9733;</span>
           </div>
           <h3>test</h3>
           <p>Autor test</p>
