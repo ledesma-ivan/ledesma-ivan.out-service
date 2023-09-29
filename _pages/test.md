@@ -16,23 +16,28 @@ nav_order:
 
 
 <div class="flex flex-wrap">
-    <h2 id="test" class="text-2xl font-bold mb-4  text-black dark:text-white [scroll-margin-top:60px]">test</h2>
-    <div class="card">
-  <img src="https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQkrjYxSfSHeCEA7hkPy8e2JphDsfFHZVKqx-3t37E4XKr-AT7DML8IwtwY0TnZsUcQ" alt="Imagen del libro">
-<div class="card-body">
-<div class="rating">
-  <p class="estrella-amarilla">
-    <span>&#9733;&#9733;</span>
-  </p>
-</div>
-    <h3>test</h3>
-    <p>Autor test</p>
-    <p>Descripción test</p>
-       <h4>Reseña</h4>
-    <p>Esto es un excelente ejemplo de la categoría "test".</p>
-</div>
+  <h2 id="test" class="text-2xl font-bold mb-4 text-black dark:text-white [scroll-margin-top:60px]">test</h2>
+  <div class="card">
+    <div class="card-body">
+      <div class="flex">
+        <img src="https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQkrjYxSfSHeCEA7hkPy8e2JphDsfFHZVKqx-3t37E4XKr-AT7DML8IwtwY0TnZsUcQ" alt="Imagen del libro" class="book-image image-left">
+        <div class="text">
+          <div class="rating">
+            <p class="estrella-amarilla">
+              <span>&#9733;&#9733;</span>
+            </p>
+          </div>
+          <h3>test</h3>
+          <p>Autor test</p>
+          <p>Descripción test</p>
+          <h4>Reseña</h4>
+          <p>Esto es un excelente ejemplo de la categoría "test".</p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
+
 
   <div class="flex flex-wrap">
     <h2 id="no-test" class="text-2xl font-bold mb-4  text-black dark:text-white [scroll-margin-top:60px]">No test</h2>

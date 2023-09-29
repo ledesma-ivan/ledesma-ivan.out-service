@@ -1,44 +1,50 @@
 .list-inline-item a {
     text-decoration: underline;
-}
-
-.flex {
+  }
+  
+  .flex {
     display: flex;
-}
-
-.flex-wrap {
+  }
+  
+  .flex-wrap {
     flex-wrap: wrap;
-}
-
-h2 {
+  }
+  
+  h2 {
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 16px;
-}
-
-.text-black {
+  }
+  
+  .text-black {
     color: black;
-}
-
-.dark .text-white {
+  }
+  
+  .dark .text-white {
     color: white;
-}
-
-.scroll-margin-top {
+  }
+  
+  .scroll-margin-top {
     margin-top: 60px;
-}
-
-.book-image {
+  }
+  
+  .book-image {
     float: left;
-    width: 50px;
-    height: 50px;
-    margin-right: 20px;
+    width: 50px; /* Ajusta el ancho de la imagen al mismo tamaño que el texto */
+    height: auto; /* Autoajusta la altura proporcionalmente */
   }
   
   .card-body {
     margin-left: 0px;
   }
+  
   span.estrella-amarilla {
     color: yellow;
+  }
+  
+  /* Clase para la imagen a la izquierda del texto */
+  .image-left {
+    float: left;
+    margin-right: 20px;
   }
   
